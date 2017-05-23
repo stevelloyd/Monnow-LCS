@@ -32,3 +32,16 @@ There were three activities:
 - [Activity 2 (Sense-measure temperature)](session%201/Activity%202%20(Sense%E2%80%94measure%20temperature).pdf) A temperature probe on a Raspberry Pi was used to create a table of temperatures against time for a mug of warm water. We also tested the radiator temperatures in the room.
 - [Activity 3 (Think-human robots)](session%201/Activity%203%20(Think%E2%80%94human%20robots).pdf) In this activity, one student pretends to be a robot, and another is the program which controls the robot. The students learned how surprisingly tricky it is to program a route for a robot. They also observed an autonomous Ras. Pi robot and tried to guess what rules it was obeying as it moved around the room.
 
+### Session 2
+
+We had a brief presentation at the beginning of the session to introduce working with microbits, and as with some other sessions showed a 'computing pioneer', Margaret Hamilton.
+
+Two activities:
+
+- [Activity 4-microbits talking](session%202/Activity%204.pdf) Introduces the idea that microbit can communicate over a built-in (Bluetooth) wireless network. We displayed the network activity of a couple of microbits on a central display. This enabled us to split the classroom into a grid and make a map of temperature and Bluetooth signal across the room.
+- [Activity 5-Sonic Pi](session%202/Activity%205.pdf) We explored the possibilities of turning data into sound, for example in [hearing the weather](http://somenotes.stevelloyd.net/notes/2014/06/23/hearing-the-weather-sonification-in-sonic-pi/) resulting in [these sounds](http://somenotes.stevelloyd.net/resources/temperature.mp3) (in the event we used the sound generation of the microbits themselves, but knowledge of Sonic Pi is a great skill to have anyway).
+
+### Session 3
+
+We started off with a reflection on the previous week's activity and then introduced the [pxt](https://pxt.microbit.org) block JavaScript programming language).
+
