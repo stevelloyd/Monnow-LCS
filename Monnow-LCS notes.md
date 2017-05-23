@@ -48,7 +48,7 @@ Two activities:
 
 We started off with a reflection on the previous week's activity and then introduced the [pxt](https://pxt.microbit.org) block JavaScript programming language). 
 
-The 'pioneer' was Alan Kay, whose team at the Xerox Palo Alto Research Centre invented desktop computing as we know it (incidentally to investigate the teaching of programming in school).
+The 'pioneer' was Alan Kay, whose team at the Xerox Palo Alto Research Centre invented desktop computing as we know it (incidentally to investigate the teaching of programming in school). There was a video of the ['gravity project'](http://squeakland.org/resources/audioVisual/movie.jsp?id=25) done in Squeak.
 
 [Slides](session%203/session3-intro.pdf)
 
@@ -69,7 +69,7 @@ The 'pioneers' were students participating in the code.org supported [Bootstrap]
 
 After a recap students continued to work on their thunkpets and saw how they might write stories to support their programming ideas.
 
-Time constraints meant we didn't get chance to show the 'pioneers' film which was on the theme of Bret Victor's ["What can a techologist do about Climate Change](http://worrydream.com/#!/ClimateChange).
+Time constraints meant we didn't get chance to show the 'pioneers' film which was on the theme of Bret Victor's ["What can a techologist do about Climate Change"](http://worrydream.com/#!/ClimateChange).
 
 [Slides](session%205/session5-intro.pdf)
 
