@@ -39,6 +39,8 @@ There were three activities:
 
 We had a brief presentation at the beginning of the session to introduce working with microbits, and as with some other sessions showed a 'computing pioneer', Margaret Hamilton.
 
+[Slides](session%202/session2-intro.pdf)
+
 Two activities:
 
 - [Activity 4-microbits talking](session%202/Activity%204.pdf) Introduces the idea that microbit can communicate over a built-in (Bluetooth) wireless network. We displayed the network activity of a couple of microbits on a central display. This enabled us to split the classroom into a grid and make a map of temperature and Bluetooth signal across the room.
