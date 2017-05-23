@@ -43,5 +43,42 @@ Two activities:
 
 ### Session 3
 
-We started off with a reflection on the previous week's activity and then introduced the [pxt](https://pxt.microbit.org) block JavaScript programming language).
+We started off with a reflection on the previous week's activity and then introduced the [pxt](https://pxt.microbit.org) block JavaScript programming language). 
 
+The 'pioneer' was Alan Kay, whose team at the Xerox Palo Alto Research Centre invented desktop computing as we know it (incidentally to investigate the teaching of programming in school).
+
+[Slides](session%203/session3-intro.pdf)
+
+Activity:
+
+[Activity 6-try some blocks](session%203/Activity%206.pdf)
+
+### Session 4
+
+Students got their hands on their microbits, were introduced to the notion that each microbit has a unique 'name' burned into its software (which can be used to identify data from each microbit in a wireless network). They used a pre-programmed microbit program to wire up external LEDs to their microbits.
+
+The 'pioneers' were students participating in the code.org supported [Bootstrap](http://www.bootstrapworld.org) programme using the Racket language in a maths-supporting computing curriculum.
+ 
+
+[Slides](session%204/session4-intro.pdf)
+
+### Session 5
+
+After a recap students continued to work on their thunkpets and saw how they might write stories to support their programming ideas.
+
+Time constraints meant we didn't get chance to show the 'pioneers' film which was on the theme of Bret Victor's ["What can a techologist do about Climate Change](http://worrydream.com/#!/ClimateChange).
+
+[Slides](session%205/session5-intro.pdf)
+
+### Session 6
+
+In this session there was busy final preparation for the parent's presentation, and programming of the final applications into the thunkpets. ![title](images/demo.jpg)
+
+### Teacher session
+
+We based the session on the students' pxt programming session; a hands-on exploration of physical computing, and discussion on how microbits could be used in curriculum relevant to the teachers involved-there were lots of ideas.
+
+[Slides](session%207/session7-intro.pdf)
+
+
+[Activity (used purely as a starting point)](session%207/Activity-programming%20microbit%20with%20pxt.pdf)
