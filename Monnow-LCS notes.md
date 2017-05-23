@@ -2,9 +2,12 @@
 
 ## Background
 
-These notes describe the computing resources used in the sessions (6 for students, 1 for teacher development) and the ways in which the project creatively evolved as a pragmatic discourse between SL, RT, KMS, staff and particularly the students.
+These notes describe the computing resources used in the sessions (6 for students, 1 for teacher development).
 
-The document is written in [Markdown](https://daringfireball.net/projects/markdown/) — a plain text markup format. You can get the meaning of the file in a plain text editor (eg Notepad-Windows), but to get the full formatting, use a Markdown editor such as [Texts](http://www.texts.io/features/) on Windows, or one of the myriad of equivalents on macOS/iOS eg [Byword](https://bywordapp.com). There is a PDF equivalent provided also.
+The documents are provided in PDF format, but the source documents used to create the PDFs are written in [Markdown](https://daringfireball.net/projects/markdown/) — a plain text markup format. You can get the meaning of the file in a plain text editor (eg Notepad-Windows), but to regnerate the full formatting, use a Markdown editor such as [Texts](http://www.texts.io/features/) on Windows, or one of the myriad of equivalents on macOS/iOS eg [Byword](https://bywordapp.com).
+The slide sets were also generated from Markdown (PDFs provided).
+
+The license file attached to the documents is the [MIT license](https://choosealicense.com/licenses/mit/) which basically allows any non-commercial or commercial use of the material provided these rights are retained for others. 
 
 ## Original concepts
 
